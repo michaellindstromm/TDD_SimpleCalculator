@@ -1,0 +1,10 @@
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.CLI/bin/Debug/netcoreapp2.0/Calculator.CLI.deps.json
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.CLI/bin/Debug/netcoreapp2.0/Calculator.CLI.runtimeconfig.json
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.CLI/bin/Debug/netcoreapp2.0/Calculator.CLI.runtimeconfig.dev.json
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.CLI/bin/Debug/netcoreapp2.0/Calculator.CLI.dll
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.CLI/bin/Debug/netcoreapp2.0/Calculator.CLI.pdb
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.CLI/obj/Debug/netcoreapp2.0/Calculator.CLI.csproj.CoreCompileInputs.cache
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.CLI/obj/Debug/netcoreapp2.0/Calculator.CLI.AssemblyInfoInputs.cache
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.CLI/obj/Debug/netcoreapp2.0/Calculator.CLI.AssemblyInfo.cs
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.CLI/obj/Debug/netcoreapp2.0/Calculator.CLI.dll
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.CLI/obj/Debug/netcoreapp2.0/Calculator.CLI.pdb

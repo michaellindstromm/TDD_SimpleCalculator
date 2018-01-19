@@ -1,0 +1,15 @@
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/bin/Debug/netcoreapp2.0/Calculator.Test.deps.json
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/bin/Debug/netcoreapp2.0/Calculator.Test.runtimeconfig.json
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/bin/Debug/netcoreapp2.0/Calculator.Test.runtimeconfig.dev.json
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/bin/Debug/netcoreapp2.0/Calculator.Test.dll
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/bin/Debug/netcoreapp2.0/Calculator.Test.pdb
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/bin/Debug/netcoreapp2.0/Calculator.CLI.dll
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/bin/Debug/netcoreapp2.0/Calculator.CLI.pdb
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/obj/Debug/netcoreapp2.0/Calculator.Test.csproj.CoreCompileInputs.cache
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/obj/Debug/netcoreapp2.0/Calculator.Test.AssemblyInfoInputs.cache
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/obj/Debug/netcoreapp2.0/Calculator.Test.AssemblyInfo.cs
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/obj/Debug/netcoreapp2.0/Calculator.Test.dll
+/Users/michaellindstrom/workspace/udemy/c-sharp/calculator/Calculator.Test/obj/Debug/netcoreapp2.0/Calculator.Test.pdb
