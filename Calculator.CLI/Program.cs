@@ -12,8 +12,13 @@ namespace Calculator.CLI
                 InputConverter inputConverter = new InputConverter();
                 CalculatorEngine calculatorEngine = new CalculatorEngine();
 
+                Console.WriteLine("First Number:");
                 double firstNumber = inputConverter.convertInputToNumber(Console.ReadLine());
+
+                Console.WriteLine("Second Number:");
                 double secondNumber = inputConverter.convertInputToNumber(Console.ReadLine());
+
+                Console.WriteLine("Operation:");
                 string operation = Console.ReadLine();
 
                 double result = calculatorEngine.calculate(operation, firstNumber, secondNumber);
